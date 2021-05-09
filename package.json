@@ -1,0 +1,7 @@
+{
+    "name": "showcase",
+    "version": "1.0.0",
+    "scripts": {
+        "test": "testcafe chrome ./E2E/tests.spec.ts --skip-js-errors"
+    }
+}
